@@ -11,7 +11,7 @@ def show():
 
     st.title("Alex Apartments Dataset Analysis We Performed ")
 
-    alex_df = pd.read_csv(r"C:\Users\maria\Desktop\Assignments\Detools 99.99%\alex_df.csv")
+    alex_df = pd.read_csv("alex_df.csv")
     st.subheader("Dataset")
     st.write(alex_df)
 
