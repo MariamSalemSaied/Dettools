@@ -15,7 +15,7 @@ def show():
 
 
     st.title("Linear Regression Model")
-    alex_df = pd.read_csv(r"C:\Users\maria\Desktop\Assignments\Detools 99.99%\alex_df.csv")
+    alex_df = pd.read_csv("alex_df.csv")
 
     sale=alex_df[alex_df['Rental Frequency']=='Sale'].drop(['Title','Location','Link','Ownership','Rental Frequency'],axis=1)
     sale = sale.reset_index(drop=True)
