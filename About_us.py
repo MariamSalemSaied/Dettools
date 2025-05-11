@@ -18,6 +18,7 @@ def show():
                     Data Analysis
 
                     Visualization
+                    <br>
                     """)
     
     with col2:
@@ -29,6 +30,7 @@ def show():
                     Data Analysis
 
                     Report
+                    <br>
                     """)
     
     with col3:
@@ -39,6 +41,7 @@ def show():
                     
 
                     Storage
+                    <br>
                     """)
 
     with col4:
