@@ -13,11 +13,11 @@ def show():
         st.subheader("Mariam Salem ")
         st.markdown("23011151")
         st.markdown("""
-                    Web app
+                    Web app<br>
                     
-                    Data Analysis
+                    Data Analysis<br>
 
-                    Visualization
+                    Visualization<br>
                     <br>
                     """)
     
@@ -25,11 +25,11 @@ def show():
         st.subheader("Mariam Sudan ")
         st.markdown("23011154")
         st.markdown("""
-                    Regular Expression
+                    Regular Expression<br>
                     
-                    Data Analysis
+                    Data Analysis<br>
 
-                    Report
+                    Report<br>
                     <br>
                     """)
     
@@ -37,10 +37,10 @@ def show():
         st.subheader("Mariam Osama")
         st.markdown("23012208")
         st.markdown("""
-                    Visualization
+                    Visualization<br>
                     
 
-                    Storage
+                    Storage<br>
                     <br>
                     """)
 
@@ -48,11 +48,11 @@ def show():
         st.subheader("Menna Muhammed")
         st.markdown("23011565")
         st.markdown("""
-                    Data Extraction
+                    Data Extraction<br>
                     
-                    Data Cleaning
+                    Data Cleaning<br>
 
-                    Visualization
+                    Visualization<br>
 
                     Regression Model
                     """)
