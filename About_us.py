@@ -19,7 +19,7 @@ def show():
 
                     Visualization<br>
                     <br>
-                    """)
+                    """, unsafe_allow_html=True)
     
     with col2:
         st.subheader("Mariam Sudan ")
@@ -31,7 +31,7 @@ def show():
 
                     Report<br>
                     <br>
-                    """)
+                    """, unsafe_allow_html=True)
     
     with col3:
         st.subheader("Mariam Osama")
@@ -42,7 +42,7 @@ def show():
 
                     Storage<br>
                     <br>
-                    """)
+                    """, unsafe_allow_html=True)
 
     with col4:
         st.subheader("Menna Muhammed")
@@ -55,4 +55,4 @@ def show():
                     Visualization<br>
 
                     Regression Model
-                    """)
+                    """, unsafe_allow_html=True)
